@@ -14,4 +14,8 @@
         <!--后缀-->
         <property name="suffix" value=".jsp"/>
     </bean>
+
+
+    <!--Handler-->
+    <bean id="/hello" class="cn.cstube.controller.HelloController"/>
 </beans>
