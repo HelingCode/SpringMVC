@@ -14,6 +14,6 @@ public class HelloController {
     public String hello(Model model){
         //封装数据
         model.addAttribute("msg","Hello,SpringMVCAnnotation!");
-        return "springMVC"; //会被视图解析器处理
+        return "hello"; //会被视图解析器处理
     }
 }
