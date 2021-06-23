@@ -7,8 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring-HelloMVC" />
         <module name="SpringMVC-01-Servlet" />
+        <module name="SpringMVC-03-annotation" />
+        <module name="Spring-HelloMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

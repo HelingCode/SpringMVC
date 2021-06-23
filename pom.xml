@@ -11,6 +11,7 @@
     <modules>
         <module>SpringMVC-01-Servlet</module>
         <module>Spring-HelloMVC</module>
+        <module>SpringMVC-03-annotation</module>
     </modules>
 
 
