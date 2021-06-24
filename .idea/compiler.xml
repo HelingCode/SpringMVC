@@ -9,6 +9,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringMVC-01-Servlet" />
+        <module name="Spring-05-json" />
         <module name="SpringMVC-03-annotation" />
         <module name="Spring-HelloMVC" />
       </profile>

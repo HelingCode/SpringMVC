@@ -12,6 +12,7 @@
         <module>SpringMVC-01-Servlet</module>
         <module>Spring-HelloMVC</module>
         <module>SpringMVC-03-annotation</module>
+        <module>Spring-05-json</module>
     </modules>
 
 
@@ -46,6 +47,12 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.20</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.60</version>
         </dependency>
     </dependencies>
 
